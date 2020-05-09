@@ -194,7 +194,7 @@ int main()
             }
         }
 
-        scanf("%s", userIN);
+
         return 0;
     }
 }

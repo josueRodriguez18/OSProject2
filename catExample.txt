@@ -1,0 +1,3 @@
+hello 
+i am a new file
+my purpose is to exemplify cat functions
